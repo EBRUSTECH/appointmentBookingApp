@@ -2,6 +2,9 @@
 
 This is an Appointment Booking Application built with Laravel, Inertia.js, and Vue.js. It allows users to book appointments and provides an admin dashboard for managing bookings.
 
+![image](https://github.com/user-attachments/assets/ac32cd50-1163-4196-ba44-360f3114292e)
+
+
 ## Features
 
 - User authentication (Login, Register, Logout)
